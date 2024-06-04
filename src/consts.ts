@@ -18,10 +18,14 @@ export const BLOG: Metadata = {
   DESCRIPTION: "A collection of Bruyere articles.",
 };
 
+export const HEALTH: Metadata = {
+  TITLE: "Health",
+  DESCRIPTION: "A collection of Bruyere health tips.",
+};
+
 export const PROJECTS: Metadata = {
   TITLE: "Projects",
-  DESCRIPTION:
-    "A collection of Bruyere projects.",
+  DESCRIPTION: "A collection of Bruyere projects.",
 };
 
 export const SOCIALS: Socials = [
